@@ -1,1 +1,8 @@
-export { signUp, signOut, singIn, clean } from "./authActions";
+export {
+  signUp,
+  signOut,
+  singIn,
+  verifyEmail,
+  recoverPassword,
+  clean
+} from "./authActions";
